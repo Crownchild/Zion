@@ -1,0 +1,10 @@
+total 32
+drwxr-xr-x 2 root root 4096 Apr 29 01:33 .
+drwxr-xr-x 1 root root 4096 Apr 29 01:07 ..
+-rw-r--r-- 1 root root    8 Apr 29 01:09 ade1
+-rw-r--r-- 1 root root    8 Apr 29 01:09 ade2
+-rw-r--r-- 1 root root    8 Apr 29 01:09 ade3
+-rw-r--r-- 1 root root   11 Apr 29 01:20 ola1
+-rw-r--r-- 1 root root   29 Apr 29 01:33 segun1
+-rw-r--r-- 1 root root  168 Apr 29 01:33 segun2
+-rw-r--r-- 1 root root    0 Apr 29 01:33 segun3
